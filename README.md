@@ -1,7 +1,7 @@
 <div align="center">
 
 
-## <img src="https://raw.githubusercontent.com/haydenbanz/SpeechStylis/main/speechStylis.png" height="150" width="200" />
+## <img src="https://raw.githubusercontent.com/haydenbanz/SpeechStylis/main/speechStylis.png"  />
 
 ## 🌐🤖 SpeechStylis AI: The Cutting-Edge in Text-to-Speech Synthesis with Python! 🚀🔊
 
