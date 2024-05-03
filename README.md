@@ -17,10 +17,9 @@ Ready to give it a try? SpeechStylis AI is now available as a Python library, so
 
 </div>
 
-[![Discord](https://img.shields.io/badge/Discord-CODE%20GLITCH-%237289DA?style=for-the-badge&logo=discord)](https://discord.gg/ZFTCpAU53U)
 [![Mozilla License](https://img.shields.io/badge/License-Mozilla-blue?style=for-the-badge)](https://opensource.org/licenses/MPL-2.0)
 [![Python Version](https://img.shields.io/static/v1?label=Python&message=3.6%2B&color=%230078D6&labelColor=%23e3e3e3&style=for-the-badge&logo=python)](https://www.python.org/downloads/)
-[![Discord.py library](https://img.shields.io/static/v1?label=Discord.py&message=Library&color=%232A3E87&labelColor=%236A7DA8&style=for-the-badge)](https://pypi.org/project/discord.py/)
+
 [![GitHub Issues](https://img.shields.io/github/issues/haydenbanz/DiscordGloom?style=for-the-badge)](https://github.com/haydenbanz/SpeechStylis/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/haydenbanz/DiscordGloom?style=for-the-badge)](https://github.com/haydenbanz/SpeechStylis/pulls)
 [![GitHub Stars](https://img.shields.io/github/stars/haydenbanz/DiscordGloom?style=for-the-badge)](https://github.com/haydenbanz/SpeechStylis/stargazers)
